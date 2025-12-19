@@ -1,6 +1,8 @@
-# Hi, I'm Noureldin 👋
+<h1 align="center">Hi, I'm Noureldin 👋</h1>
 
-Full-Stack Developer | Backend-Focused | .NET & Angular
+<h3 align="center">
+  Full-Stack Developer | Backend-Focused | .NET & Angular
+</h3>
 
 ---
 
