@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Noureldin 👋</h1>
 
 <h3 align="center">
-  Full-Stack Developer | Backend-Focused | .NET & Angular
+  Software Engineer | Backend-Focused
 </h3>
 
 ---
